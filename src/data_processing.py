@@ -1,6 +1,4 @@
 import pandas as pd
-import numpy as np
-from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 from sklearn.impute import SimpleImputer
 from sklearn.cluster import KMeans

@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 from src.data_processing import create_aggregate_features, extract_time_features, calculate_rfm
 
 
